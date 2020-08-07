@@ -31,3 +31,19 @@
 
 ## git diff 文件名
 1. 查看文件变更信息
+
+## git reset --hard 版本号
+1. 版本回退 HEAD^回退到上一个版本
+2. 回退到指定版本
+
+## 远程仓库
+
+## git remote add origin 仓库地址
+1. 把本地仓库宇远程仓库关联
+
+## git remote -v
+1. 查看本地仓库关联的远程仓库地址
+
+## git push -u origin master
+1. git push 本地仓库提交到远程仓库
+2. -u origin master
