@@ -1,0 +1,76 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.wrop{
+    width: 880px;
+    margin: 0 auto;
+}
+.wrop .top{
+    width: 880px;
+    height: 100px;
+    /* margin: 0 auto;   */
+    position: relative;
+    /* background: red; */
+    background: #f0f0f0;
+}
+.wrop .top a{
+    width: 80px;
+    height: 30px;
+    background: #fff;
+    line-height: 30px;
+    position: absolute;
+    top: 25px;
+    right: 20px;
+}
+.crumbs{
+    width: 880px;
+    height: 30px;
+    
+}
+.crumbs span{
+    margin-left: 30px;
+}
+.crumbs span a{
+    margin-right: 10px;
+}
+.goodslist{
+    width: 880px;
+
+}
+.goodslist li{
+    border: 1px solid ;
+    float: left;
+    margin: 20px 9px 20px 9px;
+}
+.goodslist li:hover{
+    border: 1px solid red;
+}
+.goodslist li img{
+    width: 200px;
+    height: 200px;
+}
+.goodslist li p{
+    width: 200px;
+    text-indent: 10px;
+    color: red;
+}
+.goodslist li h3{
+    width: 200px;
+    text-indent: 10px;
+}
+.goodslist li div{
+    padding-left: 30px;
+    width: 80px;
+    height: 30px;
+    float: right;
+    border: 1px solid  red;
+    text-align: center;
+    line-height: 30px;
+    cursor: pointer;
+    margin: 10px 5px;
+    color: red;
+    background: url(./img/cart.png) 0px 3px no-repeat;
+}

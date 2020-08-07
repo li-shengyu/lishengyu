@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+}
+.wrop{
+    width: 800px;
+    margin: 0 auto;
+}
+.wrop .top{
+    width: 800px;
+    height: 50px;
+    line-height: 50px;
+    background: #f0f0f0;
+}
+.wrop .top span{
+    width: 100px;
+    height: 50px;
+    margin-left: 20px;
+}
+.wrop .nav{
+    width: 800px;
+    height: 30px;
+    margin: 20px 0;
+    background: #f0f0f0;
+    line-height: 30px;
+}
+.nav .t1{
+    margin-left: 20px;
+}
+.nav .t2{
+    margin-left: 400px;
+}
+.nav .t3{
+    margin-left: 100px;
+}
+.nav .t4{
+    margin-left: 100px;
+}
+.list{
+    width: 800px;
+}
+.list li{
+    overflow: hidden;
+}
+.list li img{
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+.list li p{
+    float: left;
+    line-height: 100px;
+    margin-left: 20px;
+}
+.list li h3{
+    color: red;
+    float: left;
+    line-height: 100px;
+    margin-left: 62px;
+}
+.list li span{
+    float: left;
+    line-height: 100px;
+    margin-left: 113px;
+    
+}
+.list li div{
+    line-height: 100px;
+    float: left;
+    margin-left: 117px;
+    cursor: pointer;
+}
+
