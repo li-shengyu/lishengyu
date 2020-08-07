@@ -46,4 +46,9 @@
 
 ## git push -u origin master
 1. git push 本地仓库提交到远程仓库
-2. -u origin master
+2. -u origin master 设置默认的远程仓库和分支
+3. 执行完这个命令后，以后可以直接git push提交到远程仓库的master分支
+
+## 更新代码
+1. 把远程代码更新到本地时一定要养成先提交再更新习惯！！
+2. git pull 把远程代码拉取到本地
